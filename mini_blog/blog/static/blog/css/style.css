@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(48, 45, 45);
+    color: antiquewhite;
+}
+
+.form-control, 
+.form-control-focus {
+    background-color: rgb(83, 81, 81);
+}
+
+.jumbo-color {
+    background-color: rgb(74, 62, 62);
+}
